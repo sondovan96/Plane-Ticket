@@ -1,0 +1,256 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+QLBANVE_CHUYENBAY
+</name>
+</assembly>
+<members>
+<member name="T:QLBANVE_CHUYENBAY.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.btnCancel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.btnDat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.btnLogin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.btnMua">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.btnSua">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.btnThem">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.btnTimKiem">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.btnXoa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.icon_search">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.iconfinder_Close_132419">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.plus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.plus__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.refresh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.toolBanVe">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.toolDangNhap">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.toolDangXuat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.toolTraCuuChuyenBay">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLBANVE_CHUYENBAY.My.Resources.Resources.toolTraCuuKhachHang">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:QLBANVE_CHUYENBAY.DS_DoanhThuNam">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:QLBANVE_CHUYENBAY.DS_DoanhThuNam.DOANHTHUTHANGDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:QLBANVE_CHUYENBAY.DS_DoanhThuNam.DOANHTHUTHANGRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:QLBANVE_CHUYENBAY.DS_DoanhThuNam.DOANHTHUTHANGRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:QLBANVE_CHUYENBAY.DS_DoanhThuNamTableAdapters.DOANHTHUTHANGTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:QLBANVE_CHUYENBAY.DS_DoanhThuNamTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:QLBANVE_CHUYENBAY.DS_DoanhThuNamTableAdapters.TableAdapterManager.UpdateUpdatedRows(QLBANVE_CHUYENBAY.DS_DoanhThuNam,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:QLBANVE_CHUYENBAY.DS_DoanhThuNamTableAdapters.TableAdapterManager.UpdateInsertedRows(QLBANVE_CHUYENBAY.DS_DoanhThuNam,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:QLBANVE_CHUYENBAY.DS_DoanhThuNamTableAdapters.TableAdapterManager.UpdateDeletedRows(QLBANVE_CHUYENBAY.DS_DoanhThuNam,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:QLBANVE_CHUYENBAY.DS_DoanhThuNamTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:QLBANVE_CHUYENBAY.DS_DoanhThuNamTableAdapters.TableAdapterManager.UpdateAll(QLBANVE_CHUYENBAY.DS_DoanhThuNam)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:QLBANVE_CHUYENBAY.DS_DoanhThuNamTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:QLBANVE_CHUYENBAY.DS_DoanhThuNamTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:QLBANVE_CHUYENBAY.DS_DoanhThuThang">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:QLBANVE_CHUYENBAY.DS_DoanhThuThang.CTDOANHTHUTHANGDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:QLBANVE_CHUYENBAY.DS_DoanhThuThang.CTDOANHTHUTHANGRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:QLBANVE_CHUYENBAY.DS_DoanhThuThang.CTDOANHTHUTHANGRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:QLBANVE_CHUYENBAY.DS_DoanhThuThangTableAdapters.CTDOANHTHUTHANGTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:QLBANVE_CHUYENBAY.DS_DoanhThuThangTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:QLBANVE_CHUYENBAY.DS_DoanhThuThangTableAdapters.TableAdapterManager.UpdateUpdatedRows(QLBANVE_CHUYENBAY.DS_DoanhThuThang,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:QLBANVE_CHUYENBAY.DS_DoanhThuThangTableAdapters.TableAdapterManager.UpdateInsertedRows(QLBANVE_CHUYENBAY.DS_DoanhThuThang,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:QLBANVE_CHUYENBAY.DS_DoanhThuThangTableAdapters.TableAdapterManager.UpdateDeletedRows(QLBANVE_CHUYENBAY.DS_DoanhThuThang,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:QLBANVE_CHUYENBAY.DS_DoanhThuThangTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:QLBANVE_CHUYENBAY.DS_DoanhThuThangTableAdapters.TableAdapterManager.UpdateAll(QLBANVE_CHUYENBAY.DS_DoanhThuThang)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:QLBANVE_CHUYENBAY.DS_DoanhThuThangTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:QLBANVE_CHUYENBAY.DS_DoanhThuThangTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

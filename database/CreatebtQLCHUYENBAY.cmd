@@ -1,0 +1,1 @@
+SQLCMD -S . -E -i QLBANVE_DONE.sql
